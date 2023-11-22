@@ -10,3 +10,9 @@ convenzione in GIT è Main, quindi la risposta crretta è "Main".
 branch in cui ci si trova e i loro hashcode è "git log".
 
 5) Il comando per effettuare il rollback ad una commit precedente è "git reset [hash]".
+
+6) Due motivazioni per l'utilizzo di git:
+
+   Come pria motivazione, c'è sicuramente il lavoro di gruppo, di fatto molte aziende famose utilizzano git, come facebook e molte altre. Se per esempio c'è una persona nuova in azienda puo'       tranquillamente clonare il progetto su git tramite il comando "git clone".
+   Come seconda motivazione, git è molto comodo per il fatto che si possono creare dei check point, un po' come i salvataggi dei videogiochi, che ci permettono di tornare ad una versione precedente del    programma senza rischiare di fare casino e quindi di perdere tempo a risistemare ilcodice come era prima.
+   
