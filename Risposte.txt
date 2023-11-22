@@ -3,3 +3,5 @@ automaticamente con la repository online collegata, di conseguenza l'affermazion
 
 2) Il nuovo nome standard del branch principale utilizzato come
 convenzione in GIT è Main, quindi la risposta crretta è "Main".
+
+3) Descriverei il workflow dei comandi git con git add -> git commit -> git push
