@@ -25,4 +25,5 @@ branch in cui ci si trova e i loro hashcode è "git log".
    2) Realizzazione, la parte nella quale si scrive effettivamente io codice in un determinato linguaggio;
    3) Riutilizzo, si scrive codice che potrà poi essere riutilizzato il futuro per eventuali futuri progetti;
    4) Manutenzione, nella quale si fanno appunto delle operazioni di manutenzione al codice per sistemare alcuni bug,    migliorarlo e renderlo utilizzabile nel tempo.
-
+ 
+10) Il ciclo del software è appunto il ciclo della vita del software, che parte dalla fase di progettazione, nella quale vengono attuate tutte le formalità del progetto e vengono fissati i vari obiettivi.
