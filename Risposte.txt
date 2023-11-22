@@ -1,2 +1,5 @@
 1) Le commit create in una repository locale, non vengono sincronizzate
 automaticamente con la repository online collegata, di conseguenza l'affermazione è falsa.
+
+2) Il nuovo nome standard del branch principale utilizzato come
+convenzione in GIT è Main, quindi la risposta crretta è "Main".
