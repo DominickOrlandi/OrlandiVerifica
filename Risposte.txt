@@ -19,3 +19,10 @@ branch in cui ci si trova e i loro hashcode è "git log".
 7) La differenza tra git clone e git pull, è principalmente che git clone clona tutta una repository online e la mette in una repository locale, invece git pull permette di prendere le modifiche da un    altro user singolarmente e non quindi come il clone che clona tutta la repository.
 
 8) I rami di sviluppo servono per creare del codice parallelo, magari per fare una qualche manutenzione al codice senza intaccare il codice sul ramo principale. Si puo' creare un nuovo branch tramite il comando "git checkout -b "nome del nuovo branch"" e ci si sposta attraverso essi sempre utilizzando il comando git checkout ma con una sintassi diversa, esattamente come segue "git checkout -m "nome del branch sul quale mi voglio spostare"". Due rami si uniscono attraverso il comando "git merge", e infine per vedere il ramo corrente basta fare "git status".
+
+9) L'ingegneria del software si divide in 4 parti: 
+   1) Progettazione, è la fase nella quale viene analizzato il problema e viene trovata una soluzione informatica ad esso;
+   2) Realizzazione, la parte nella quale si scrive effettivamente io codice in un determinato linguaggio;
+   3) Riutilizzo, si scrive codice che potrà poi essere riutilizzato il futuro per eventuali futuri progetti;
+   4) Manutenzione, nella quale si fanno appunto delle operazioni di manutenzione al codice per sistemare alcuni bug,    migliorarlo e renderlo utilizzabile nel tempo.
+
